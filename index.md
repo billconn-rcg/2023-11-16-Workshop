@@ -326,7 +326,10 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
-
+<p> <a
+href="https://docs.google.com/document/d/1-QKwj75MEPtYm2mOB_TWt74eeAfjZxYT6D6uJto1XCI/edit?usp=sharing">
+Collaborative Google Document</a>
+</p>
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
