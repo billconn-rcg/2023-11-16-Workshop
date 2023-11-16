@@ -179,7 +179,7 @@ special instructions.
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
+  organizers in advance.  If we can help make learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
@@ -205,7 +205,7 @@ Display the contact email address set in the configuration file.
   or
   {% else %}
   {% unless forloop.first %}
-  ,
+,
   {% endunless %}
   {% endif %}
   <a href='mailto:{{email}}'>{{email}}</a>
